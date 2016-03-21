@@ -1,8 +1,14 @@
 ---
-name: Practica Orden Superior
+name: Práctica Orden Superior
 locale: es
 type: practice
 beta: false
 language: haskell
 id_format: '%05d'
-order: []
+order:
+- 112
+- 113
+- 114
+- 115
+- 116
+- 117
